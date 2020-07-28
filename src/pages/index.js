@@ -11,7 +11,12 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Helmet>
       <header className="main-header">
-        <img src="//placekitten.com/100/100" alt="@wrangle_dangle" />
+        <img
+          src="/assets/img/montego.jpg"
+          alt="@wrangle_dangle"
+          height="100"
+          width="100"
+        />
         <h1>@wrangle_dangle</h1>
       </header>
 
