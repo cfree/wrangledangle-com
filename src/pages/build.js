@@ -201,7 +201,7 @@ const build = () => {
         </section>
 
         <section>
-          <h2>Equipment</h2>
+          <h2>Equipment & Recovery Gear</h2>
           <ul className="build-list">
             <li>
               Smittybilt Compact Air System 2747 CO2 tank
