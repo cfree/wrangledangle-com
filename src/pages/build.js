@@ -114,7 +114,13 @@ const build = () => {
             </a> */}
             </li>
             <li>
-              Bestop Trektop Slantback soft top
+              Bestop Trektop Slantback soft top (summer)
+              {/* <a className="button" href="" target="_blank">
+              See It
+            </a> */}
+            </li>
+            <li>
+              Factory hard top (winter)
               {/* <a className="button" href="" target="_blank">
               See It
             </a> */}
@@ -126,11 +132,12 @@ const build = () => {
             </a> */}
             </li>
             <li>
-              Mopar JL Half Doors custom painted Bikini Pearlcoat w/ premium uppers
+              Mopar JL Half Doors custom painted Bikini Pearlcoat w/ premium uppers (summer)
               {/* <a className="button" href="" target="_blank">
               See It
             </a> */}
             </li>
+            <li>Factory full doors (winter)</li>
             <li>
               Teraflex Alpha HD adjustable tire mounting kit
               {/* <a className="button" href="" target="_blank">
