@@ -35,7 +35,7 @@ const build = () => {
             <li>Dana Spicer JL M210 5.13 Gears, front & rear</li>
             <li>ARB diff covers, front & rear</li>
             <li>LT315/70R17C (35-inch) BF Goodrich KO2 all-terrain tires</li>
-            <li>Mopar 17" x 8" Rubicon Extreme Recon XR beadlock-capable wheels in dark gray metallic</li>
+            <li>Mopar 17"x8" Rubicon Extreme Recon 392 beadlock-capable wheels (smoked bronze)</li>
           </ul>
         </section>
 
