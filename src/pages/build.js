@@ -54,7 +54,15 @@ const build = () => {
           <h2>Wheels & Tires</h2>
           <ul className="build-list">
             <li>
-              315/70R17 Goodyear Wrangler Duratracs
+              LT315/70R17C (35-inch) BF Goodrich KO2 all-terrain tires
+              {/* <a className="button" href="" target="_blank">
+              See It
+            </a> */}
+            </li>
+          </ul>
+          <ul className="build-list">
+            <li>
+              Mopar 17" x 8" Rubicon Extreme Recon XR beadlock-capable wheels in dark gray metallic
               {/* <a className="button" href="" target="_blank">
               See It
             </a> */}
@@ -63,7 +71,7 @@ const build = () => {
         </section>
 
         <section>
-          <h2>Suspension</h2>
+          <h2>Suspension & Steering Components</h2>
           <ul className="build-list">
             <li>
               2" Mopar w/ Fox Series shocks
@@ -71,6 +79,10 @@ const build = () => {
               See It
             </a> */}
             </li>
+            <li>Fox Factory Race Series 2.0 ATS steering stabilizer</li>
+            <li>Steer Smarts Yeti XD JL Griffin XD w/ attenuator - top mount, red belows</li>
+            <li>Steer Smarts Yeti XD JL Rubicon tie-rod assembly</li>
+            <li>Steer Smarts Yeti XD JL Pro-Series adjustable track bar, front and rear</li>
           </ul>
         </section>
 
@@ -90,13 +102,19 @@ const build = () => {
             </a> */}
             </li>
             <li>
+              Rock Hard 4x4 Patriot Series Rocker Guards tube rock sliders
+              {/* <a className="button" href="" target="_blank">
+              See It
+            </a> */}
+            </li>
+            <li>
               RokBlokz quick release mud flaps
               {/* <a className="button" href="" target="_blank">
               See It
             </a> */}
             </li>
             <li>
-              Bestop Supertop Ultra twill soft top
+              Bestop Trektop Slantback soft top
               {/* <a className="button" href="" target="_blank">
               See It
             </a> */}
@@ -108,7 +126,7 @@ const build = () => {
             </a> */}
             </li>
             <li>
-              Alien Sunshade front/rear mesh shade
+              Mopar JL Half Doors custom painted Bikini Pearlcoat w/ premium uppers
               {/* <a className="button" href="" target="_blank">
               See It
             </a> */}
@@ -120,7 +138,7 @@ const build = () => {
             </a> */}
             </li>
             <li>
-              Rock Hard 4x4 Patriot Series Rocker Guards tube rock sliders
+              Rugged Ridge Reflex stubby 13-inch antenna
               {/* <a className="button" href="" target="_blank">
               See It
             </a> */}
@@ -132,18 +150,29 @@ const build = () => {
             </a> */}
             </li>
             <li>
-              Maximus 3 filler trim plates, front license plate frame, red winch
-              hook anchor
+              Maximus-3 JL Stealth front license plate bracket and frame
               {/* <a className="button" href="" target="_blank">
               See It
             </a> */}
             </li>
             <li>
-              Rugged Ridge Reflex stubby 13-inch antenna
+              Factor 55 Flatlink E winch shackle (red)
               {/* <a className="button" href="" target="_blank">
               See It
             </a> */}
             </li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>Lighting</h2>
+          <ul className="build-list">
+            <li>Rigid Industries SR-Series Pro Spot/Flood combo 10" lightbar, hardwired</li>
+            <li>Rock Hard 4x4 winch guard plus light mount</li>
+            <li>Rigid Industries 10" light covers for SR-Series in amber and clear</li>
+            <li>Rigid Industries D-Series Pro 3" spot light pair, hardwired</li>
+            <li>ZRoadz A-Pillar lower pod-style LED light mounts</li>
+            <li>Rigid Industries 3" light covers for D-Series in amber and clear</li>
           </ul>
         </section>
 
@@ -158,6 +187,12 @@ const build = () => {
             </li>
             <li>
               Rugged Ridge door sill covers
+              {/* <a className="button" href="" target="_blank">
+              See It
+            </a> */}
+            </li>
+            <li>
+              Hothead Headliners hard top kit w/ side window panels and Sound Assassin Strips
               {/* <a className="button" href="" target="_blank">
               See It
             </a> */}
@@ -187,6 +222,25 @@ const build = () => {
             </a> */}
             </li>
             <li>
+              Hi-Lift 48" jack (red)
+              {/* <a className="button" href="" target="_blank">
+              See It
+            </a> */}
+            </li>
+            <li>
+              STEP 22 11" Hi-Lift jack cover (black)
+              {/* <a className="button" href="" target="_blank">
+              See It
+            </a> */}
+            </li>
+            <li>
+              STEP 22 11" Hi-Lift jack cover (black)
+              {/* <a className="button" href="" target="_blank">
+              See It
+            </a> */}
+            </li>
+            <li>Dominion Offroad stealth Hi-Lift jack mount kit</li>
+            <li>
               8-foot tree saver
               {/* <a className="button" href="" target="_blank">
               See It
@@ -205,7 +259,7 @@ const build = () => {
           <h2>Accessories</h2>
           <ul className="build-list">
             <li>
-              iPhone X camera
+              iPhone 14 Pro camera
               {/* <a className="button" href="" target="_blank">
               See It
             </a> */}
@@ -217,23 +271,55 @@ const build = () => {
             </a> */}
             </li>
             <li>
-              GoPro Hero 3
+              GoPro Hero 9
               {/* <a className="button" href="" target="_blank">
               See It
             </a> */}
             </li>
             <li>
-              Midland GXT1000VP4 GMRS/FRS radio
+              Midland T51X3 X-Talker walkie-talkies
               {/* <a className="button" href="" target="_blank">
               See It
             </a> */}
             </li>
+            <li>
+              Midland MXT275 15W GMRS MicroMobile two-way radio, hardwired
+              {/* <a className="button" href="" target="_blank">
+              See It
+            </a> */}
+            </li>
+            <li>
+              Topsy Products Universal CB Mic Mount
+              {/* <a className="button" href="" target="_blank">
+              See It
+            </a> */}
+            </li>
+            <li>
+              67designs Jeep JL Rail Mount Series 55 rail mount base
+              {/* <a className="button" href="" target="_blank">
+              See It
+            </a> */}
+            </li>
+            <li>
+              Midland MXTA25 3dB gain ghost antenna (short trips)
+              {/* <a className="button" href="" target="_blank">
+              See It
+            </a> */}
+            </li>
+            <li>
+              Midland 6dB gain antenna (long trips)
+              {/* <a className="button" href="" target="_blank">
+              See It
+            </a> */}
+            </li>
+            <li>Rugged Radios hood side antenna mount</li>
             <li>
               Baofeng BF-F8HP 8W handheld HAM radio
               {/* <a className="button" href="" target="_blank">
               See It
             </a> */}
             </li>
+            <li>Nexar NEXS1 dash cam</li>
           </ul>
         </section>
       </div>
